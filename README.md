@@ -11,13 +11,10 @@ I am a Master of Computer Science candidate at North Carolina State University, 
 
 ## Work Experience: 👩‍💼
 
-### UI/UX Engineer | JobScout | Raleigh, NC  
-**Aug 2024 - Dec 2024**  
-As a UI/UX Engineer at JobScout, I led the full redesign and development of a job search platform, increasing user engagement by 40% and job applications by 25% within three months post-launch. I conducted A/B and usability testing, reducing user drop-off by 25% and boosting completed job applications by 35%. Additionally, I optimized website performance using Vercel Analytics, cutting load times by 30%, and implemented React-based UI components to enhance responsiveness, SEO, and overall performance.
+### Software Engineer – Research Assistant | NC State University | Raleigh, NC (Remote)
+**Jun 2025 – Present**
+As a Research Assistant at NC State, I leveraged Excel and Python (Pandas) to collect, clean, and map over 100 county-level variables from ACS, USDA, and BEA datasets, improving dataset completeness by 70%. I am currently exploring the integration of machine learning and large language models to automate insight extraction and build predictive models for socioeconomic data, supporting data-driven decision-making and policy analysis.
 
-### UX Intern | FMX Company | via NC State | Raleigh, NC  
-**Jan 2024 - Apr 2024**  
-During my internship at FMX, I led a team of five UX designers and acted as the key liaison between the design, product, and development teams, ensuring alignment and efficient collaboration. I contributed to the enhancement of the company’s dashboard, resulting in significant workflow improvements. I also designed heatmap visualizations to optimize layout and implemented a Kanban-based task management system, which reduced duplicate tickets by 40% and improved navigation by 30%.
 
 ### QA Engineer | Tibco Software | Pune, India  
 **Mar 2022 - Jul 2023**  
