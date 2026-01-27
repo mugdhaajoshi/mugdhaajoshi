@@ -1,6 +1,5 @@
 # Hi there, I am Mugdha 👋
 
-![Header Image](MJ_BG.png)
 
 ## About Me: 👩‍💻
 I hold a Master’s degree in Computer Science from North Carolina State University (May 2025). I hold a Bachelor’s degree in Computer Science from Pune University, India. My academic and professional interests encompass Software Engineering, UI/UX Design, Database Management, Data Science, and Artificial Intelligence, with a strong focus on developing innovative and scalable solutions.
